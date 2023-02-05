@@ -1,7 +1,21 @@
 {
   "name": "react-18--react-snippets",
   "displayName": "React 18+ React Snippets",
+  "publisher": "csangale",
   "description": "Code snippets for react 18",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cds/react-18-snippets.git"
+  },
+  "keywords": [
+    "react18",
+    "react",
+    "extension",
+    "snippets"
+  ],
+  "author": "cds",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "homepage": "https://github.com/cds/react-18-snippets#readme",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.75.0"
