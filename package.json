@@ -1,0 +1,20 @@
+{
+  "name": "react-18--react-snippets",
+  "displayName": "React 18+ React Snippets",
+  "description": "Code snippets for react 18",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
