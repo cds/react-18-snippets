@@ -2,6 +2,7 @@
 ## Extension Settings
 
 `rfcx`  for React functional Component without import
+`trfcx` for React typescript functional component with prop types definition without import
 
 ## Description 
 
@@ -27,6 +28,12 @@ Users appreciate release notes as you update your extension.
 ### 1.0.0
 
 Added features React 18 functional component without import
+
+### 1.1.0
+
+###Bug Fixes
+Added added support for js,jsx,ts,tsx
+
  
 ---
 **Have Fun!**

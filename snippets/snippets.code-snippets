@@ -14,5 +14,24 @@
             ""
         ],
         "description": "React Functional component 18"
+    },
+    "Typescript React Functional component 18 with prop types definition": {
+        "prefix": "trfcx",
+        "body": [
+            "interface Props {",
+            "  // Props type definition here",
+            "}",
+            "",
+            "const ${TM_FILENAME_BASE}: React.FC<Props> = ({}) => {",
+            "  return (",
+            "    <div>",
+            "      <p>Hello, I am a typescript functional component!</p>",
+            "    </div>",
+            "  );",
+            "};",
+            "",
+            "export default ${TM_FILENAME_BASE};"
+        ],
+        "description": "Typescript React Functional component 18 with prop types definition"
     }
 }
